@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/electron/electron-api-demos.svg?branch=master)](https://travis-ci.org/electron/electron-api-demos)
 [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com)
 
-> 此项目同步自 [electron](https://github.com/electron) 的 [electron-api-demos](https://github.com/electron/electron-api-demos) 项目. 除特殊情况, 将保持每两周一次的同步频率.
+> 此项目同步自 [electron](https://github.com/electron) 的 [electron-api-demos](https://github.com/electron/electron-api-demos) 项目. 官方现已经停止更新, 当前项目后续将考虑升级到新版本独立分支.
 > 
 > 更新日志请参阅: [CHANGELOG.md](CHANGELOG.md)
 
